@@ -29,3 +29,5 @@ The KUEKeN party is devoted to enlightenment in the matter of Kant:
 "Without children there will be no future, without future there is no history, without history there is no meaning" 
 
 "Only in the context of a narration can the end appear as completion. Without any narrative, the end is always an absolute loss, an absolute deficiency." (Byung-Chul Han. Transparenzgesellschaft. Berlin 2012. Verlag Matthes & Seitz. 3. Auflage 2013. ISBN 978-3-88221-595-3. S.52)
+
+All the German stuff can be looked up here: http://kueken-partei.de.
