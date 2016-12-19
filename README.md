@@ -1,7 +1,8 @@
 # conceptual-design
+
 The basic pricipals of politics for the KUEKeN party.
 
-The main and simple idea of the KUEKeN party is the statement that politic need to be concentrated on the future. The future has already arrived in form of our children. So when we want to make politic for the future, and this is the only politics possible because every thing else is administration, we need to make politics for our children. 
+The main and simple idea of the KUEKeN party is the statement that politic need to be concentrated on the future. The future has already arrived in the form of our children. So when we want to make politic for the future, and this is the only politics possible because every thing else is administration, we need to make politics for our children. 
 
 Politics for children is always politic for humans, because we humans are responsible for our children, and a politic for children need to support us humans in this responsibility.
 
@@ -25,6 +26,10 @@ The KUEKeN party is devoted to enlightenment in the matter of Kant:
 
 >Enlightenment is man's emergence from his self-imposed nonage. Nonage is the inability to use one's own understanding without another's guidance. This nonage is self-imposed if its cause lies not in lack of understanding but in indecision and lack of courage to use one's own mind without another's guidance. Dare to know! (Sapere aude.) "Have the courage to use your own understanding," is therefore the motto of the enlightenment. 
 
+But since Ardorno/Horkheimer's "Dialectic of Enlightenment" we know reason need be related to some kind of human reality. Without such binding to the real needs of us humans, reason tends to have a logic of it's own and separates from the basic needs.
+The simple example is economics. Where it is reasonable for the economic actor to boost their profits but for human kind it's the worst, as it destroys the foundation of our very basic living conditions.
+
+To prevent reason from going rough in such a way, we use the care we have for our children to bind reason to the basic human existence.
 
 "Without children there will be no future, without future there is no history, without history there is no meaning" 
 
