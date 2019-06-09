@@ -1,25 +1,77 @@
 # conceptual-design
 
-The basic pricipals of politics for the KUEKeN party.
+KUEKeN Circle for Environment, Adults, Children and Serious Sustainability
 
-The main and simple idea of the KUEKeN party is the statement that politic need to be concentrated on the future. The future has already arrived in the form of our children. So when we want to make politic for the future, and this is the only politics possible because every thing else is administration, we need to make politics for our children. 
+The party is a vehicle for directing public discourse towards the relevant topic of society. The relevant issue that concerns us is the future, because this is the space that can be shaped by the present. Children are the clearest sign of the future. They are our children and they are always also children of society. It is in them that responsibility is most evident. This responsibility lies with us, the responsible citizens as parents, grandparents, educators and also politicians.
 
-Politics for children is always politic for humans, because we humans are responsible for our children, and a politic for children need to support us humans in this responsibility.
+The starting point should be simple, it should lie with the question: How can our society be built and structured so that it offers our children a good society and community? A good society should be the ability to make our children more true, smarter and better people than we are, it is a joy to look at. The starting point of any political action is thus the question of expediency for our children. This is a radical change of perspective.
 
-Children are always also children of the society. (To grab this idea read Samuel Scheffler "Death and the Afterlife" or watch/read "the children of men". P. D. James) 
 
 From this simple and basic idea of caring we deviate the main party principals
 
-1. pacifism
-2. secularism
-3. focus on the present
-4. structurally unfinished
-5. conservation of nature
-6. solidarity
-7. equity
-8. lifetime as treasure
-9. cooperation instead of competition 
-10. commitment to the universal human rights
+# Basic Principles
+
+The basic principles set out our essential values and set out the basic direction of our social and political ideas. All other ideas and measures must be measured against these basic principles and values.
+
+Since the children of society are at the centre of all our efforts, this directly results in an effort to act sustainably. These two topmost values also provide us with the following basic principles:
+
+## pacifism
+
+Pacifism is the consistent consequence of responsibility for our children. It must be radical in the sense that we must understand that war can only take place with war material and that we must stop producing and using it.
+
+
+##  Secularism
+
+Secularism is also a consequence of this responsibility. When we accept a higher being, a God, then this higher being in the end bears the responsibility, the responsibility for the state of the world. On the other hand, the responsibility, especially to human society and to our children, to take responsibility for oneself, seems natural. The central point is therefore self-determination, which is central to maturity.
+
+
+## Contemporaneity
+
+We must remain responsible to the existing people, the present is the space in which the future can be shaped, not the future. Concrete people can be the goal of our responsibility, not possible people.
+
+
+## Structural incompleteness
+
+We, as living humans, are structurally incomplete. This is precisely our possibility for development. Each of our social products resembles us in this: the party is structurally incomplete, we must constantly change the structures of the party, including those of society. It cannot be our aim to build a perfect society, it cannot exist under these conditions. Our goal can only be the positive and sustainable development of society.
+
+
+## Preserving the natural foundations of life
+
+Conserving - or restoring - a healthy and rich environment inevitably derives from responsibility for our children and all future generations and is closely linked to the concept of sustainability.
+
+The natural foundations of life are our resource, which make human life on Planet Earth possible in the first place. To overexploit these resources for short-term profit is robbery of future generations, makes it even more difficult for them to survive and must therefore be seen as irresponsible action against our children and grandchildren.
+
+We are committed to the Antropocene and the resulting responsibility. The effect of us humans on the earth is meanwhile so great that we must consider Hans Jonas extension of the Categorical Imperative, "Act in such a way that the effects of your actions are compatible with the permanence of real human life on earth"[1].
+
+
+## solidarity
+
+Man is a being of community. Therefore, our concern is for the community as it must be for the individual. Solidarity expresses, among other things, the intergenerational contract that binds us together.
+
+
+##  Justice
+
+Only in a society that compensates for structural disadvantages in the opportunities for individual participation and thus enables everyone to participate in society can children grow up in a culturally appropriate way and mature into mature and socially knowledgeable people.
+
+
+## Lifetime as treasure
+
+That lifetime is a decisive value follows from Hans Jonas' statement that life is a purpose for life[2]. The time of our life is irretrievable and passes, therefore it is a treasure. A treasure to share, with children, with people, with loved ones. As primates we are beings of community and lifetime, spent with other people, is a gift. We have to spend less money, consume less products - not only for sustainability reasons. If we spend less money, we have to earn less money and have more free time.
+
+
+## Cooperation instead of competition
+
+Competition is an enemy of the community. It promotes the isolation of people and disturbs their natural openness and cooperative abilities. With this he makes all people unhappy, because humans are beings of the community.
+Commitment to universal human rights
+
+
+## Universal human rights form the basic basis for people's interaction with one another.
+
+To grant these rights to every human being and to create a corresponding social, legal and political environment is again the essential foundation on which mature, enlightened and independent personalities can develop responsibly. For generations, the education of our descendants has focused on these very attributes. Universal human rights protect the individual, like all citizens, from disproportionate interference in their own affairs and from state arbitrariness.
+
+Therefore, a commitment to universal human rights is also a commitment to the rule of law and co-determination.
+Individual Evidence
+
 
 
 The KUEKeN party is devoted to enlightenment in the matter of Kant:
